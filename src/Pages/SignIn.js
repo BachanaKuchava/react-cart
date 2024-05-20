@@ -79,11 +79,11 @@ const SignIn = () => {
                         </Button>
                         <Form.Group className="mt-3 text-center">
                             <Form.Text className="text-muted fw-bold">
-                                New to E-cart?
+                                new user?
                             </Form.Text>
                             <Row className="py-2 border-bottom mb-3"/>
                             <Link to='/register' className="btn btn-info rounded-0">
-                                Create your E-cart account 
+                                Create your  account 
                             </Link>
                         </Form.Group>
                     </Form>
